@@ -1,0 +1,6 @@
+body{
+  margin: 20px;
+}
+a[href^="#"]{color: red}
+img[src$=-"png"]{border: 20px solid black}
+  
